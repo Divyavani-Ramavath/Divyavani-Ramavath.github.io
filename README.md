@@ -1,2 +1,2 @@
 # Divyavani-Ramavath.github.io
-Portfolio of Divyavani Ramavath – CSE Student | Python | Web Development | Hackathons &amp; Projects
+Portfolio of Divyavani Ramavath – CSE Student|c| Python | Web Development |java basic|Hackathons &amp; Projects
