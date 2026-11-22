@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Divyavani Ramavath</h1>
+<h1 align="center">Hi,Ramavath Divyavani</h1>
 
 <h3 align="center">B.Tech Computer Science Engineering Student | Aspiring Software Developer</h3>
 
@@ -9,26 +9,26 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 🎓 B.Tech Computer Science Engineering Student.
-- 💻 Passionate about Software Development and Problem Solving.
-- 🚀 Interested in Full-Stack Development and Artificial Intelligence.
-- 🌱 Currently improving my skills in Java, DSA and React.js.
-- 💡 Love building innovative projects and solving real-world problems.
-- 🤝 Open to collaborating on projects, hackathons and learning opportunities.
+- B.Tech Computer Science Engineering Student.
+- Passionate about Software Development and Problem Solving.
+- Interested in Full-Stack Development and Artificial Intelligence.
+- Currently improving my skills in Java, DSA and React.js.
+- Love building innovative projects and solving real-world problems.
+- Open to collaborating on projects, hackathons and learning opportunities.
 
 ---
 
-### 🛠️ Languages and Technologies
+### Languages and Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,react,mysql,firebase,git,github,vscode,postman" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **CampusLancer** – A student freelancing platform.
 - **CryptoLearning** – An interactive cryptocurrency learning platform.
@@ -38,10 +38,9 @@
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyavani-Ramavath&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyavani-Ramavath&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
