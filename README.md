@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi,Ramavath Divyavani</h1>
+<h1 align="center">Ramavath Divyavani</h1>
 
 <h3 align="center">B.Tech Computer Science Engineering Student | Aspiring Software Developer</h3>
 
